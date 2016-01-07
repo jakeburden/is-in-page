@@ -1,5 +1,6 @@
 ### isInPage ([from MDN](https://developer.mozilla.org/en-US/docs/Web/API/Node/contains))
 
+    npm install is-in-page --save
 
 #### Example
 
