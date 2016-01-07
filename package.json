@@ -1,0 +1,24 @@
+{
+  "name": "is-in-page",
+  "version": "1.0.0",
+  "description": "From MDN: This function checks to see if an element is in the page's body. As contains is inclusive and determining if the body contains itself isn't the intention of isInPage this case explicitly returns false.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jekrb/is-in-page.git"
+  },
+  "keywords": [
+    "element",
+    "in",
+    "page",
+    "inclusive",
+    "mdn",
+    "isInPage",
+    "DOM"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jekrb/is-in-page/issues"
+  },
+  "homepage": "https://github.com/jekrb/is-in-page#readme"
+}
